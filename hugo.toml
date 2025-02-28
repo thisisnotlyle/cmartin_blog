@@ -1,4 +1,4 @@
 baseURL = "https://martiniic.com/"
 languageCode = "en-us"
 title = "Cassidy Martin's Personal Blog"
-theme = "Stack"
+theme = "stack"
