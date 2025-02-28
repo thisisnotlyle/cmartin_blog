@@ -19,7 +19,7 @@ jobs:
           hugo-version: '0.108.0'
 
       - name: Build site
-        run: hugo --minify
+        run: hugo
 
       - name: Create .nojekyll
         run: touch ./public/.nojekyll
